@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://fitnesstrack-ecjt.onrender.com/api/",
+ baseURL: "https://fitnesstrack-ecjt.onrender.com/api/",
  // baseURL: "http://localhost:8080/api/",
 });
 
